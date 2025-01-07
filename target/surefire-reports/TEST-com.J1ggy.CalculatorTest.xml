@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Program Files\jdk-17.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire10738344955128951181\surefirebooter-20250107144911054_3.jar C:\Users\Admin\AppData\Local\Temp\surefire10738344955128951181 2025-01-07T14-49-10_356-jvmRun1 surefire-20250107144911054_1tmp surefire_0-20250107144911054_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire3506851758964714167\surefirebooter-20250107151226493_3.jar C:\Users\Admin\AppData\Local\Temp\surefire3506851758964714167 2025-01-07T15-12-26_399-jvmRun1 surefire-20250107151226493_1tmp surefire_0-20250107151226493_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\repositories\MavenPractice\target\test-classes;C:\repositories\MavenPractice\target\classes;C:\Users\Admin\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\Admin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\Admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire10738344955128951181\surefirebooter-20250107144911054_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire3506851758964714167\surefirebooter-20250107151226493_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.11+7-LTS-207"/>
@@ -56,7 +56,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="addSmallNumbersTest" classname="com.J1ggy.CalculatorTest" time="0.015"/>
+  <testcase name="addSmallNumbersTest" classname="com.J1ggy.CalculatorTest" time="0.016"/>
   <testcase name="divideSmallNumbersTest" classname="com.J1ggy.CalculatorTest" time="0.0"/>
   <testcase name="multiplySmallNumbersTest" classname="com.J1ggy.CalculatorTest" time="0.0"/>
   <testcase name="subtractSmallNumbersTest" classname="com.J1ggy.CalculatorTest" time="0.0"/>
